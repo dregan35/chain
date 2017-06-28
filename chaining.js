@@ -7,8 +7,7 @@
 //     Multiply each remaining number by 1.5 and then subtract 1.
 //     Then output (either in the DOM or the console) the sum of all the resulting numbers.
 
-
-
+// pass the entire array into the console.log which blew my mind then used sort to return the numbers in order then subtracked them next put in a return to only bring back numbers less than 19, then used .map to a new array into a function to mutipy the numbers, then supriseingly used .reduce to add the numbers
 
 
 
